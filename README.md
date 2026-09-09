@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/swethabalusamy2007-commits/leetcode/tree/master/0011-container-with-most-water) |
 | [0189-rotate-array](https://github.com/swethabalusamy2007-commits/leetcode/tree/master/0189-rotate-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/swethabalusamy2007-commits/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0495-teemo-attacking](https://github.com/swethabalusamy2007-commits/leetcode/tree/master/0495-teemo-attacking) |
 ## Math
 |  |
 | ------- |
@@ -36,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/swethabalusamy2007-commits/leetcode/tree/master/0011-container-with-most-water) |
+## Simulation
+|  |
+| ------- |
+| [0495-teemo-attacking](https://github.com/swethabalusamy2007-commits/leetcode/tree/master/0495-teemo-attacking) |
 <!---LeetCode Topics End-->
