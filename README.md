@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/swethabalusamy2007-commits/leetcode/tree/master/0189-rotate-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/swethabalusamy2007-commits/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/swethabalusamy2007-commits/leetcode/tree/master/0455-assign-cookies) |
+| [0463-island-perimeter](https://github.com/swethabalusamy2007-commits/leetcode/tree/master/0463-island-perimeter) |
 | [0495-teemo-attacking](https://github.com/swethabalusamy2007-commits/leetcode/tree/master/0495-teemo-attacking) |
 ## Math
 |  |
@@ -52,4 +53,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/swethabalusamy2007-commits/leetcode/tree/master/0455-assign-cookies) |
+## Depth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/swethabalusamy2007-commits/leetcode/tree/master/0463-island-perimeter) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/swethabalusamy2007-commits/leetcode/tree/master/0463-island-perimeter) |
+## Matrix
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/swethabalusamy2007-commits/leetcode/tree/master/0463-island-perimeter) |
 <!---LeetCode Topics End-->
