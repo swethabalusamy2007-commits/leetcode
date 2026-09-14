@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/swethabalusamy2007-commits/leetcode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/swethabalusamy2007-commits/leetcode/tree/master/0463-island-perimeter) |
 | [0495-teemo-attacking](https://github.com/swethabalusamy2007-commits/leetcode/tree/master/0495-teemo-attacking) |
+| [0575-distribute-candies](https://github.com/swethabalusamy2007-commits/leetcode/tree/master/0575-distribute-candies) |
 ## Math
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/swethabalusamy2007-commits/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/swethabalusamy2007-commits/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/swethabalusamy2007-commits/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0575-distribute-candies](https://github.com/swethabalusamy2007-commits/leetcode/tree/master/0575-distribute-candies) |
 ## Sliding Window
 |  |
 | ------- |
