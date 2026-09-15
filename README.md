@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/swethabalusamy2007-commits/leetcode/tree/master/0463-island-perimeter) |
 | [0495-teemo-attacking](https://github.com/swethabalusamy2007-commits/leetcode/tree/master/0495-teemo-attacking) |
 | [0575-distribute-candies](https://github.com/swethabalusamy2007-commits/leetcode/tree/master/0575-distribute-candies) |
+| [0605-can-place-flowers](https://github.com/swethabalusamy2007-commits/leetcode/tree/master/0605-can-place-flowers) |
 ## Math
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/swethabalusamy2007-commits/leetcode/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/swethabalusamy2007-commits/leetcode/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/swethabalusamy2007-commits/leetcode/tree/master/0605-can-place-flowers) |
 ## Simulation
 |  |
 | ------- |
