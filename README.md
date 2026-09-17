@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/swethabalusamy2007-commits/leetcode/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/swethabalusamy2007-commits/leetcode/tree/master/0605-can-place-flowers) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/swethabalusamy2007-commits/leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0724-find-pivot-index](https://github.com/swethabalusamy2007-commits/leetcode/tree/master/0724-find-pivot-index) |
 ## Math
 |  |
 | ------- |
@@ -70,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/swethabalusamy2007-commits/leetcode/tree/master/0463-island-perimeter) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/swethabalusamy2007-commits/leetcode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
