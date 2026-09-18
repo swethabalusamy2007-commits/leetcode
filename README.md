@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/swethabalusamy2007-commits/leetcode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/swethabalusamy2007-commits/leetcode/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
@@ -75,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/swethabalusamy2007-commits/leetcode/tree/master/0724-find-pivot-index) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/swethabalusamy2007-commits/leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
