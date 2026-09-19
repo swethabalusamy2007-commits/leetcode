@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/swethabalusamy2007-commits/leetcode/tree/master/0605-can-place-flowers) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/swethabalusamy2007-commits/leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/swethabalusamy2007-commits/leetcode/tree/master/0724-find-pivot-index) |
+| [0766-toeplitz-matrix](https://github.com/swethabalusamy2007-commits/leetcode/tree/master/0766-toeplitz-matrix) |
 ## Math
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/swethabalusamy2007-commits/leetcode/tree/master/0463-island-perimeter) |
+| [0766-toeplitz-matrix](https://github.com/swethabalusamy2007-commits/leetcode/tree/master/0766-toeplitz-matrix) |
 ## Prefix Sum
 |  |
 | ------- |
