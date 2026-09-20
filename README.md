@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0717-1-bit-and-2-bit-characters](https://github.com/swethabalusamy2007-commits/leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/swethabalusamy2007-commits/leetcode/tree/master/0724-find-pivot-index) |
 | [0766-toeplitz-matrix](https://github.com/swethabalusamy2007-commits/leetcode/tree/master/0766-toeplitz-matrix) |
+| [0860-lemonade-change](https://github.com/swethabalusamy2007-commits/leetcode/tree/master/0860-lemonade-change) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/swethabalusamy2007-commits/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Math
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/swethabalusamy2007-commits/leetcode/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/swethabalusamy2007-commits/leetcode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/swethabalusamy2007-commits/leetcode/tree/master/0605-can-place-flowers) |
+| [0860-lemonade-change](https://github.com/swethabalusamy2007-commits/leetcode/tree/master/0860-lemonade-change) |
 ## Simulation
 |  |
 | ------- |
